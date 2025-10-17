@@ -23,8 +23,8 @@ Display the result.
 
 ## Program:
 ```
-DEVELOPED BY: ADHITHYA PERUMAL D
-REGISTER NUMBER: 212222230007
+DEVELOPED BY: JOHN PAUL J
+REGISTER NUMBER: 212223230093
 ```
 
 ### Read image and convert it to grayscale image
